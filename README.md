@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hey 👋! I'm Taha and I'm a sophomore developer @ MSMU.</h3>
+<h1 align="center">Hey 👋! I'm Taha and I'm a sophomore developer @ MSMU.</h3>
 
 ###
 
