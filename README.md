@@ -106,10 +106,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tahash4h/tahash4h/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 <div align="left">
 </div>
 
