@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-I am a second-year computer science | data science major at Mount St. Mary's University, passionate about exploring the realms of software engineering, machine learning, and building robust applications.
+I am a second-year Computer Science and Data Science double major at Mount St. Mary's University, passionate about exploring the realms of software engineering, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
