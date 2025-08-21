@@ -1,23 +1,19 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋! I'm Taha and I'm a sophomore developer @ MSMU.</h3>
-
-###
-
-# 💫 About Me:
-I am a third-year Computer Science and Data Science double major at Mount St. Mary's University, passionate about exploring the realms of software engineering, machine learning, and building robust applications.
-
-## 🚀 What I'm Up To
-
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
+<h1 align="center">Hey 👋! I'm Taha — Junior Developer @ MSMU</h1>
 
 
-###
+# 💫 About Me
+I'm a third-year Computer Science & Data Science double major at **Mount St. Mary’s University**, passionate about **software engineering, machine learning, and building full-stack applications**.
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif" />
 
-###
+## 🚀 Currently Exploring
+- 🤖 Machine Learning with [scikit-learn](https://scikit-learn.org/)  
+- 📚 Building **Talib-Al Ilm Library**, a full-stack digital library using Next.js, React, TypeScript, and PostgreSQL  
+- ☸️ Managing **Kubernetes clusters** and deploying **Dockerized applications** for scalable data workflows  
+  
+
 
 ## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/taha-shah-0b496824a/" target="_blank">
@@ -30,7 +26,7 @@ I am a third-year Computer Science and Data Science double major at Mount St. Ma
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -68,7 +64,7 @@ All Program Skills:
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="bash logo"  />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="express logo"  />
   <img width="22" />
@@ -109,8 +105,37 @@ All Program Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="25" alt="ubuntu logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" alt="kubernetes logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="25" alt="markdown logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="25" alt="nginx logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="numpy logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="25" alt="prometheus logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="25" alt="redis logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="25" alt="vim logo"  />
 </div>
-
 
 
 #
