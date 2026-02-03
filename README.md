@@ -4,14 +4,15 @@
 
 
 # 💫 About Me
-I'm a third-year Computer Science & Data Science double major at **Mount St. Mary’s University**, passionate about **software engineering, machine learning, and building full-stack applications**.
+I'm a third-year **Computer Science & Data Science double major** at **Mount St. Mary’s University**, passionate about **software engineering, machine learning, and building full-stack applications**. 
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif" />
 
 ## 🚀 Currently Exploring
-- 🤖 Machine Learning with [scikit-learn](https://scikit-learn.org/)  
-- 📚 Building **Talib-Al Ilm Library**, a full-stack digital library using Next.js, React, TypeScript, and PostgreSQL  
-- ☸️ Managing **Kubernetes clusters** and deploying **Dockerized applications** for scalable data workflows  
+- 🤖 Advancing **Machine Learning** and **data analysis** techniques for genomic and biological datasets  
+- 🧬 Building **reproducible pipelines** for large-scale sequencing data using workflow management tools  
+- 🔍 Exploring **public SRA and NCBI metadata** to track pathogen distribution and temporal trends  
+- ☁️ Integrating **cloud and local compute resources** for scalable, efficient genome searches and analyses
   
 
 
@@ -156,15 +157,9 @@ All Program Skills:
 ###
 
 
-<div align="center"><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahash4h&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahash4h&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahash4h&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahash4h&theme=tokyonight&row=1&column=6" alt="GitHub Profile Trophy"/>
-</div>
