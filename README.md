@@ -6,7 +6,7 @@
 # 💫 About Me
 I'm a third-year **Computer Science & Data Science double major** at **Mount St. Mary’s University**, passionate about **software engineering, machine learning, and building full-stack applications**. 
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif" />
+<!-- <img align="right" height="150" src="https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif" /> -->
 
 ## 🚀 Currently Exploring
 - 🤖 Advancing **Machine Learning** and **data analysis** techniques for genomic and biological datasets  
