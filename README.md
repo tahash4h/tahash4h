@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey 👋! I'm Taha — Junior Developer @ MSMU</h1>
+<h1 align="center">Hey 👋! I'm Taha — Developer @ MSMU</h1>
 
 
 # 💫 About Me
